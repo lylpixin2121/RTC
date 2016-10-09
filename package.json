@@ -1,0 +1,27 @@
+{
+  "name": "im",
+  "version": "1.0.0",
+  "description": "a instant message application IM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lylpixin2121/RTC.git"
+  },
+  "keywords": [
+    "IM",
+    "RTC"
+  ],
+  "author": "liyanlong",  
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lylpixin2121/RTC/issues"
+  },
+  "homepage": "https://github.com/lylpixin2121/RTC#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.5.0"
+  }
+}
